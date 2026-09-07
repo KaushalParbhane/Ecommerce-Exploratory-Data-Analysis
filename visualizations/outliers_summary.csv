@@ -1,0 +1,7 @@
+Metric,IQR Lower Bound,IQR Upper Bound,IQR Outlier Count,IQR Outlier %,Z-Score (|Z|>3) Count,Min Value,Max Value
+Quantity,-1.0,7.0,0,0.0,0,1.0,5.0
+UnitPrice,-317.2,1024.83,0,0.0,0,11.39,699.93
+GrossAmount,-1341.41,3330.41,8,0.67,0,11.39,3456.4
+DiscountAmount,-140.72,234.52,100,8.33,25,0.0,508.62
+NetAmount,-1255.49,3118.94,13,1.08,3,9.68,3390.95
+ItemsInCart,-0.5,11.5,0,0.0,0,1.0,10.0
